@@ -76,3 +76,13 @@ Returns a direct image URL.
 - Include art style cues: "oil painting style", "highly detailed fantasy art", "cinematic"
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node dndcharactergenerator.js "DnD fantasy character portrait, detailed armor and weapons, dramatic lighting, epic fantasy art style, highly detailed character design, tabletop RPG hero"
+```
+
+![Example output](https://oss.talesofai.cn/picture/22d1f0f8-7c7a-481b-a1e4-3b124306d727.webp)
+
+> Prompt: *"DnD fantasy character portrait, detailed armor and weapons, dramatic lighting, epic fantasy art style, highly detailed character design, tabletop RPG hero"*
